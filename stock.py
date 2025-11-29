@@ -119,15 +119,15 @@ class StockDashboard:
 
 # Usage Example
 if __name__ == "__main__":
-    # Create dashboard for Apple stock
+    # Creates dashboard for Apple stock
     dashboard = StockDashboard(ticker="AAPL", period="1y")
     
-    # Print summary statistics
+    # Prints summary statistics
     dashboard.print_summary()
     
-    # Display visualization
+    # Displays visualization
     dashboard.plot_dashboard()
     
-    # You can also use other tickers:
+    # other tickers can alos be used like:
     # dashboard = StockDashboard(ticker="MSFT", period="6mo")
     # dashboard = StockDashboard(ticker="TSLA", period="3mo")
