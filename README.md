@@ -2,8 +2,7 @@
 
 A Python-based interactive portfolio tracker with a GUI, live stock prices, and dynamic charts. Built with Tkinter, yfinance, pandas, and Matplotlib.  
 
-Track your stocks in real-time, visualize your portfolio allocation, and see total value over time. Add or remove stocks dynamically — perfect for building a mini trading dashboard!
-
+Track your stocks in real-time, visualize your portfolio allocation, and see total value over time. Add or remove stocks dynamically
 
 ## Features
 
